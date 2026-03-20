@@ -1,2 +1,2 @@
 # calculadora-js
-calculadora en HTML, css y javascript
+Desarrollé una calculadora funcional con HTML, CSS y JavaScript, desplegada con Netlify.
